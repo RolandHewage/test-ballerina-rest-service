@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.6.0"
+  name = "my_test1_rest_api_service"
+  org = "rolandhewage"
+  version = "0.1.0"
+
